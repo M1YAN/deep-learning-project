@@ -1,1 +1,7 @@
 /Lecture 01_简介_20260910.pdf
+
+# Local datasets, weights, checkpoints, and environment
+/data/
+/runs/
+/.venv/
+__pycache__/
